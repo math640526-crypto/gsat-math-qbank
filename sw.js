@@ -146,6 +146,7 @@ var PRECACHE = [
   U("assets/fig/u14b_6_s.webp"),
   U("assets/fig/u14b_7_q.webp"),
   U("assets/fig/u14b_7_s.webp"),
+  U("assets/fig/u1a_6_q.webp"),
   U("assets/fig/u2a_11_q.webp"),
   U("assets/fig/u2a_11_s.webp"),
   U("assets/fig/u2a_12_q.webp"),
