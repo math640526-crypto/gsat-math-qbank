@@ -1,6 +1,6 @@
 /* 學測數學題庫練習 — 離線快取 Service Worker
    首次開啟後把頁面本體、KaTeX、圖示與全部圖卡快取下來，之後離線也能完整做題。 */
-var CACHE = "qbank-pwa-gh-v1";
+var CACHE = "qbank-pwa-gh-v2";
 var BASE = self.location.href.replace(/[^/]*$/, "");
 function U(p) { return new URL(p, BASE).href; }
 
